@@ -1,0 +1,9 @@
+.build/
+build/
+release/
+releases/
+*.dmg
+*.dmg.new
+.DS_Store
+xcuserdata/
+*.xcuserstate
